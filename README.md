@@ -41,7 +41,6 @@ Virtual Box, Kali Linux, Elastic (SIEM), Nmap, Cisco Packet Tracer, Command-line
 </div>
 
 ## Certifications
-## Certifications
 
 <table>
   <tr>
