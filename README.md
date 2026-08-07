@@ -16,6 +16,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
   
 - **[Microsoft Azure Active Directory Lab (Cloud Edition)](https://github.com/Felixatika/Azure-Active-Directory-Lab-Hands-on-)**
 
+  # Bashscripting Lab
+  -**[Bashscripting -Task Automation ](https://github.com/Felixatika/Bashscripting/blame/master/getrichquick.sh)**
+
 <hr/>
 
 ## 🤳 Connect With Me
