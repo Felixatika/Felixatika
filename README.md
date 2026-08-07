@@ -18,7 +18,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
   # Bashscripting Lab
 - **[Bashscripting -Task Automation ](https://github.com/Felixatika/Bashscripting/blob/master/failed_passwords.sh)**
-- ## #I use Bashscripting & Linux tools to extract a count of failed password attempts and print them, make a list of cron jobs that were opened from multiple files to draw insights from the logs.
+ ## I use Bashscripting & Linux tools to extract a count of failed password attempts and print them, make a list of cron jobs that were opened from multiple files to draw insights from the logs.
 
 <hr/>
 
