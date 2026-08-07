@@ -41,13 +41,26 @@ Virtual Box, Kali Linux, Elastic (SIEM), Nmap, Cisco Packet Tracer, Command-line
 </div>
 
 ## Certifications
-<div>
- <h3> Testout LinuxPro <h3> <img width="250" height="150" alt="image" src="https://github.com/user-attachments/assets/94c28021-04ca-4593-b469-b1c8a5a0f647" />  
- <h3> Testout SecurityPro <h3><img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/a048f044-ec93-4e95-874a-e59e70b58f71" />
- <h3> CompTia Security + <h3><img width="200" height="150" alt="sec+" src="https://github.com/user-attachments/assets/4ccdbcda-6dc8-419c-8a6d-f81c42679072" />
-</div>
+## Certifications
 
+<table>
+  <tr>
+    <td align="center">
+      <h3>TestOut Linux Pro</h3>
+      <img width="250" height="150" src="https://github.com/user-attachments/assets/94c28021-04ca-4593-b469-b1c8a5a0f647" alt="TestOut Linux Pro">
+    </td>
 
+    <td align="center">
+      <h3>TestOut Security Pro</h3>
+      <img width="200" height="150" src="https://github.com/user-attachments/assets/a048f044-ec93-4e95-874a-e59e70b58f71" alt="TestOut Security Pro">
+    </td>
+
+    <td align="center">
+      <h3>CompTIA Security+</h3>
+      <img width="200" height="150" src="https://github.com/user-attachments/assets/4ccdbcda-6dc8-419c-8a6d-f81c42679072" alt="CompTIA Security+">
+    </td>
+  </tr>
+</table>
 
 
 
