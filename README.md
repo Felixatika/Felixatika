@@ -12,6 +12,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
+  ## Microsoft Azure Active Directory Lab (Cloud Edition)
+  
+- **[Microsoft Azure Active Directory Lab (Cloud Edition)](https://github.com/Felixatika/Azure-Active-Directory-Lab-Hands-on-)**
+
 <hr/>
 
 ## 🤳 Connect With Me
