@@ -20,7 +20,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Bashscripting -Linux Authentication & Cron Log Analysis Automation](https://github.com/Felixatika/Bashscripting/blob/master/failed_passwords.sh)**
  ### Used Bashscripting & Linux tools to extract a count of failed password attempts and print them, make a list of cron jobs that were opened from multiple files to draw insights from the logs.
  ---
- ## [Bash Scripting Project: Automation of Ubuntu 20.4 STIGs](https://github.com/Felixatika/Bashscripting/blob/master/failed_passwords.sh)
+- ## [Bash Scripting Project: Automation of Ubuntu 20.4 STIGs](https://github.com/Felixatika/Bashscripting/blob/master/failed_passwords.sh)
 
 ### Developed a robust bash script for Ubuntu 20.04 to automate STIG compliance checks (Categories I and II) and conduct thorough log analysis for swift remediation of violations and security incident identification. Seamlessly integrated, it enhances system security and compliance measures.
 ---
