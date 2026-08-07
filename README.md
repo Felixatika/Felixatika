@@ -1,4 +1,4 @@
-# Hello, I'm Felix Aspiring Cloud Engineer; Welcome to IT and Cybersecurity Project Portfolio 🔐
+# Hello, I'm Felix — an Aspiring Cloud/Network Security Engineer | Welcome to My IT & Cybersecurity Project Portfolio 🔐
 <a href="https://www.linkedin.com/in/felix-atika/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Obsessed with Cloud & Network Security.
