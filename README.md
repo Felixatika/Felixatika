@@ -15,7 +15,7 @@ I’m passionate about cybersecurity and networking, with a focus on solving com
 | Windows 11 VM, Tenable, DISA, STIG, Audit, Compliance, PowerShell                                        | <a href="https://github.com/behan101/DISA-STIGs">DISA-STIGs</a>|
 | Elastic, Linux, Nmap, Data Visualization, and Alerts                                                     | <a href="https://github.com/behan101/Elastic-Lab">Elastic SIEM Lab</a>|
 | Network Configuration and Troubleshooting                                                                | <a href="https://github.com/behan101/Network-Lab">Network Lab</a>|
-| Azure, Windows 11 Pro VM, Windows Server 2022 VM, AD, GPO                                                | <a href="https://github.com/Felixatika/Azure-Active-Directory-Lab-Hands-on-"> Azure AD Lab </a>
+| Azure, Windows 11 Pro VM, Windows Server 2022 VM, AD, GPO                                                | <a href="https://github.com/Felixatika/Azure-Active-Directory-Lab-Hands-on-"> Azure AD Lab </a> |
 
 ## Additional Tools
 Virtual Box, Kali Linux, Elastic (SIEM), Nmap, Cisco Packet Tracer, Command-line, KQL (Kusto Query Language), Microsoft Azure, Tenable, Wireshark, tcpdump, pymodbus, OpenPLC Runtime.
