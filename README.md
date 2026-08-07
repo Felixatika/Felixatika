@@ -20,7 +20,15 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Bashscripting -Linux Authentication & Cron Log Analysis Automation](https://github.com/Felixatika/Bashscripting/blob/master/failed_passwords.sh)**
  ### I use Bashscripting & Linux tools to extract a count of failed password attempts and print them, make a list of cron jobs that were opened from multiple files to draw insights from the logs.
 
+
+ ## Certifications
+ <img width="1305" height="912" alt="image" src="https://github.com/user-attachments/assets/94c28021-04ca-4593-b469-b1c8a5a0f647" />
+<img width="1600" height="1225" alt="image" src="https://github.com/user-attachments/assets/a048f044-ec93-4e95-874a-e59e70b58f71" />
+
+
 <hr/>
+
+
 
 ## 🤳 Connect With Me
 
