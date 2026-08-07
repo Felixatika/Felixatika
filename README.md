@@ -22,7 +22,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 
  ## Certifications
- <img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/94c28021-04ca-4593-b469-b1c8a5a0f647" />
+ <img width="250" height="150" alt="image" src="https://github.com/user-attachments/assets/94c28021-04ca-4593-b469-b1c8a5a0f647" />
  <img width="1600" height="1225" alt="image" src="https://github.com/user-attachments/assets/a048f044-ec93-4e95-874a-e59e70b58f71" />
  <img width="1235" height="944" alt="sec+" src="https://github.com/user-attachments/assets/4ccdbcda-6dc8-419c-8a6d-f81c42679072" />
 
