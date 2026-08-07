@@ -42,10 +42,10 @@ Virtual Box, Kali Linux, Elastic (SIEM), Nmap, Cisco Packet Tracer, Command-line
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/CompTIA_Security%2B-Certified-red?style=for-the-badge&logo=security&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Programming%20with%20JavaScript-4267B2?style=for-the-badge&logo=facebook&logoColor=white" />
-<img src="https://img.shields.io/badge/Introduction%20to%20Front-End%20Development-4267B2?style=for-the-badge&logo=facebook&logoColor=white" />
+ ## Certifications
+ <img width="250" height="150" alt="image" src="https://github.com/user-attachments/assets/94c28021-04ca-4593-b469-b1c8a5a0f647" />
+ <img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/a048f044-ec93-4e95-874a-e59e70b58f71" />
+ <img width="200" height="150" alt="sec+" src="https://github.com/user-attachments/assets/4ccdbcda-6dc8-419c-8a6d-f81c42679072" />
 
 <img src="https://img.shields.io/badge/Responsive%20Web%20Design-4A4A4A?style=for-the-badge&logo=freecodecamp&logoColor=white" />
 <img src="https://img.shields.io/badge/Business%20Analysis%20Foundations-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
