@@ -1,11 +1,12 @@
 # <a href="https://www.linkedin.com/in/felix-atika/">Felix Atika's</a> IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
-
 # Hello, I'm Felix Aspiring Cloud Engineer; 
 <a href="https://www.linkedin.com/in/felix-atika/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Obsessed with Cloud & Network Security.
+
+I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+
 
 My profound passion for computer networking drives my journey. Here on my portifolio is a showcase of projects, certifications, current undertakings, and badges, reflecting my expertise and dedication. 
 ## Projects
