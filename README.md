@@ -24,7 +24,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 [twitter]: https://twitter.com/___Felixtech________
 [youtube]: https://www.youtube.com/c/___Felixtech________
 [instagram]: https://www.instagram.com/__Felixtech_________
-[linkedin]: https://linkedin.com/in/felix-atika______
+[linkedin]: https://linkedin.com/in/felix-atika
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
