@@ -68,6 +68,10 @@ Virtual Box, Kali Linux, Elastic (SIEM), Nmap, Cisco Packet Tracer, Command-line
   <img width="200" height="150" alt="CCNA Badge" 
        src="https://github.com/user-attachments/assets/e025dc8f-d1e9-4361-bdb0-c35853d611c1" />
 </td>
+<td align="center">
+  <h3>AWS Cloud Practitioner Loading....30%</h3>
+ <img width="600" height="600" alt="aws cp" src="https://github.com/user-attachments/assets/04ecefa7-4d61-4eab-ba4c-b3a349f04044" />
+
 
   </tr>
 </table>
