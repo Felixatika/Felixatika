@@ -59,10 +59,6 @@ Virtual Box, Kali Linux, Elastic (SIEM), Nmap, Cisco Packet Tracer, Command-line
       <h3>CompTIA Security+</h3>
       <img width="200" height="150" src="https://github.com/user-attachments/assets/4ccdbcda-6dc8-419c-8a6d-f81c42679072" alt="CompTIA Security+">
     </td>
-    <td align="center">
-      <h3>CompTIA Security+</h3>
-      <img width="200" height="150" src="https://github.com/user-attachments/assets/4ccdbcda-6dc8-419c-8a6d-f81c42679072" alt="CompTIA Security+">
-    </td>
  <td align="center">
   <h3>CCNA Loading....70%</h3>
   <img width="200" height="150" alt="CCNA Badge" 
