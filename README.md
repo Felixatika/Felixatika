@@ -77,72 +77,7 @@ Virtual Box, Kali Linux, Elastic (SIEM), Nmap, Cisco Packet Tracer, Command-line
   </tr>
 </table>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## ⚠️ Vulnerability Management Projects
-
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
-
-## 🚨 Threat Hunting and Security Operations
-
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
-
-  ## Microsoft Azure Active Directory Lab (Cloud Edition)
-  
-- **[Microsoft Azure Active Directory Lab (Cloud Edition)](https://github.com/Felixatika/Azure-Active-Directory-Lab-Hands-on-)**
-
-  # Bashscripting Lab
-- **[Bashscripting -Linux Authentication & Cron Log Analysis Automation](https://github.com/Felixatika/Bashscripting/blob/master/failed_passwords.sh)**
- ### Used Bashscripting & Linux tools to extract a count of failed password attempts and print them, make a list of cron jobs that were opened from multiple files to draw insights from the logs.
- ---
-- **[Bash Scripting Project: Automation of Ubuntu 20.4 STIGs](https://github.com/Felixatika/Bashscripting/blob/master/failed_passwords.sh)**
-
-### Developed a robust bash script for Ubuntu 20.04 to automate STIG compliance checks (Categories I and II) and conduct thorough log analysis for swift remediation of violations and security incident identification. Seamlessly integrated, it enhances system security and compliance measures.
----
-
- ## Certifications
- <img width="250" height="150" alt="image" src="https://github.com/user-attachments/assets/94c28021-04ca-4593-b469-b1c8a5a0f647" />
- <img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/a048f044-ec93-4e95-874a-e59e70b58f71" />
- <img width="200" height="150" alt="sec+" src="https://github.com/user-attachments/assets/4ccdbcda-6dc8-419c-8a6d-f81c42679072" />
-
-
 <hr/>
-
-
 
 ## 🤳 Connect With Me
 
