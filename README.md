@@ -22,7 +22,40 @@ Systems: Kali Linux, VirtualBox, Nmap
 
 <div> <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" /> <img src="https://img.shields.io/badge/Azure-Cloud_Services-blue?logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" /> </div>
 
+🗂️ Featured Projects
+Threat Detection & Hunting
+Project	Description	Tools
+Threat Hunt: Port of Entry	Simulated threat-hunting investigation using MITRE ATT&CK framework, behavioral analytics, and digital forensics to trace an intrusion.	Microsoft Defender, KQL, Azure, MITRE ATT&CK
+Threat Hunting Scenario — Tor	Detected and investigated Tor browser usage on an endpoint using Microsoft Defender for Endpoint and KQL queries.	KQL, Windows 11 VM, Microsoft Defender for Endpoint
+Vulnerability & Compliance Management
+Project	Description	Tools
+Vulnerability Management Program Implementation	Designed and implemented a structured vulnerability management program from scan to remediation.	Tenable, Azure
+Programmatic Vulnerability Remediations	Automated common vulnerability remediations using scripting instead of manual fixes.	PowerShell, Bash, Shell
+DISA-STIGs	Applied and audited DISA STIG compliance baselines on a Windows 11 VM.	Windows 11 VM, Tenable, DISA, STIG, PowerShell
+SIEM & Detection Engineering
+Project	Description	Tools
+Elastic SIEM Lab	Built a SIEM lab for log ingestion, data visualization, and alerting on Linux systems.	Elastic, Linux, Nmap
+Networking & Identity Infrastructure
+Project	Description	Tools
+Network Lab	Configured and troubleshot network topologies to reinforce routing and switching fundamentals.	Packet Tracer, Networking Fundamentals
+Azure AD Lab	Deployed an Active Directory domain environment with GPOs and user/device management.	Azure, Windows Server 2022, AD, GPO
+📜 Certifications
+<table> <tr> <td align="center"> <b>CompTIA Security+</b><br/> <img width="180" src="https://github.com/user-attachments/assets/4ccdbcda-6dc8-419c-8a6d-f81c42679072" alt="CompTIA Security+"> </td> <td align="center"> <b>TestOut Security Pro</b><br/> <img width="180" src="https://github.com/user-attachments/assets/a048f044-ec93-4e95-874a-e59e70b58f71" alt="TestOut Security Pro"> </td> <td align="center"> <b>TestOut Linux Pro</b><br/> <img width="180" src="https://github.com/user-attachments/assets/94c28021-04ca-4593-b469-b1c8a5a0f647" alt="TestOut Linux Pro"> </td> </tr> <tr> <td align="center"> <b>CCNA</b> — in progress<br/> <img width="180" src="https://github.com/user-attachments/assets/e025dc8f-d1e9-4361-bdb0-c35853d611c1" alt="CCNA Badge"> </td> <td align="center"> <b>AWS Cloud Practitioner</b> — in progress<br/> <img width="180" src="https://github.com/user-attachments/assets/04ecefa7-4d61-4eab-ba4c-b3a349f04044" alt="AWS Cloud Practitioner"> </td> <td></td> </tr> </table>
+📫 Connect With Me
 
+LinkedIn • YouTube • Twitter • Instagram
+
+Content
+
+PDF
+
+New query.csv
+
+CSV
+
+# Hello, I'm Felix — Obsessed with Cybersecurity & Networking | Welcome to My IT & Cybersecurity Project Portfolio 🔐 <a href="https://www.linkedin.com/in/felix-atika/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> I’m passionate
+
+PASTED
 # Hello, I'm Felix — Obsessed with Cybersecurity & Networking | Welcome to My IT & Cybersecurity Project Portfolio 🔐
 <a href="https://www.linkedin.com/in/felix-atika/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
