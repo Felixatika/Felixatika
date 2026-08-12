@@ -49,6 +49,11 @@ Azure AD Lab	Deployed an Active Directory domain environment with GPOs and user/
 [<img align="left" alt="______Felixtech_____ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="______Felixtech_____ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+[twitter]: https://twitter.com/ItsFelixtech
+[youtube]: https://www.youtube.com/c/Felixtech
+[instagram]: https://www.instagram.com/Felixtech
+[linkedin]: https://linkedin.com/in/felix-atika
+
 # Hello, I'm Felix — Obsessed with Cybersecurity & Networking | Welcome to My IT & Cybersecurity Project Portfolio 🔐 <a href="https://www.linkedin.com/in/felix-atika/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> I’m passionate
 
 PASTED
