@@ -41,17 +41,13 @@ Network Lab	Configured and troubleshot network topologies to reinforce routing a
 Azure AD Lab	Deployed an Active Directory domain environment with GPOs and user/device management.	Azure, Windows Server 2022, AD, GPO
 📜 Certifications
 <table> <tr> <td align="center"> <b>CompTIA Security+</b><br/> <img width="180" src="https://github.com/user-attachments/assets/4ccdbcda-6dc8-419c-8a6d-f81c42679072" alt="CompTIA Security+"> </td> <td align="center"> <b>TestOut Security Pro</b><br/> <img width="180" src="https://github.com/user-attachments/assets/a048f044-ec93-4e95-874a-e59e70b58f71" alt="TestOut Security Pro"> </td> <td align="center"> <b>TestOut Linux Pro</b><br/> <img width="180" src="https://github.com/user-attachments/assets/94c28021-04ca-4593-b469-b1c8a5a0f647" alt="TestOut Linux Pro"> </td> </tr> <tr> <td align="center"> <b>CCNA</b> — in progress<br/> <img width="180" src="https://github.com/user-attachments/assets/e025dc8f-d1e9-4361-bdb0-c35853d611c1" alt="CCNA Badge"> </td> <td align="center"> <b>AWS Cloud Practitioner</b> — in progress<br/> <img width="180" src="https://github.com/user-attachments/assets/04ecefa7-4d61-4eab-ba4c-b3a349f04044" alt="AWS Cloud Practitioner"> </td> <td></td> </tr> </table>
-📫 Connect With Me
 
-LinkedIn • YouTube • Twitter • Instagram
+## 📫 Connect With Me
 
-Content
-
-PDF
-
-New query.csv
-
-CSV
+[<img align="left" alt="___Felixtech________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="_____Felixtech______ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="______Felixtech_____ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="______Felixtech_____ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 # Hello, I'm Felix — Obsessed with Cybersecurity & Networking | Welcome to My IT & Cybersecurity Project Portfolio 🔐 <a href="https://www.linkedin.com/in/felix-atika/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> I’m passionate
 
