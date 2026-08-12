@@ -95,8 +95,6 @@ This portfolio showcases hands-on labs and projects across vulnerability managem
        <td align="center">
       <b>AZ-900r</b> — in progress<br/>
          <img width="180" alt="AZ-900" src="https://github.com/user-attachments/assets/51743169-80b4-417b-bde7-357f1e9d9a98" />
-
-      <img width="180" src="https://github.com/user-attachments/assets/04ecefa7-4d61-4eab-ba4c-b3a349f04044" alt="AWS Cloud Practitioner">
     </td>
     <td></td>
   </tr>
