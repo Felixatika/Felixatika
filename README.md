@@ -1,4 +1,4 @@
-<h1 align="center">Felix Atika</h1> <h3 align="center">IT & Cybersecurity Professional | Networking • Cloud Security • Threat Hunting</h3> <p align="center"> <a href="https://www.linkedin.com/in/felix-atika/"> <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:felixatika@gmail.com"> <img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p> <p align="center"> CCNA (in progress) • CompTIA Security+ • TestOut Linux Pro • M.S. Cybersecurity </p>
+<h1 align="center">FELIX ATIKA</h1> <h3 align="center">IT & Cybersecurity Professional | Networking • Cloud Security • Threat Hunting</h3> <p align="center"> <a href="https://www.linkedin.com/in/felix-atika/"> <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:felixatika@gmail.com"> <img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p> <p align="center"> CCNA (in progress) • CompTIA Security+ • TestOut Linux Pro • M.S. Cybersecurity </p>
 
 👋 About Me
 
@@ -6,7 +6,19 @@ IT professional with hands-on experience in networking, systems administration, 
 
 This portfolio showcases hands-on labs and projects across vulnerability management, threat hunting, SIEM, and cloud security — built to apply and demonstrate practical skills beyond certifications.
 
+🧰 Core Skills & Tools
 
+Networking: TCP/IP, Routing & Switching, Cisco Packet Tracer, Wireshark, tcpdump
+
+Cloud & Identity: Microsoft Azure, Active Directory, Group Policy, Windows Server 2022, DNS/DHCP
+
+Security Operations: Microsoft Sentinel, Splunk, Elastic (SIEM), KQL, Microsoft Defender for Endpoint, Suricata
+
+Vulnerability & Compliance: Tenable, DISA STIGs, Audit & Compliance
+
+Scripting & Automation: PowerShell, Bash, Shell scripting
+
+Systems: Kali Linux, VirtualBox, Nmap
 
 
 # Hello, I'm Felix — Obsessed with Cybersecurity & Networking | Welcome to My IT & Cybersecurity Project Portfolio 🔐
