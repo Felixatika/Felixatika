@@ -63,45 +63,21 @@ This portfolio showcases hands-on labs and projects across vulnerability managem
 | Networking & Identity | [Network Lab](https://github.com/behan101/Network-Lab) | Configured and troubleshot network topologies to reinforce routing and switching fundamentals. | Packet Tracer, Networking Fundamentals |
 | Networking & Identity | [Azure AD Lab](https://github.com/Felixatika/Azure-Active-Directory-Lab-Hands-on-) | Deployed an Active Directory domain environment with GPOs and user/device management. | Azure, Windows Server 2022, AD, GPO |
 
+
 ---
 
 ## 📜 Certifications
 
-<table>
-  <tr>
-    <td align="center">
-      <b>CompTIA Security+</b><br/>
-      <img width="180" src="https://github.com/user-attachments/assets/4ccdbcda-6dc8-419c-8a6d-f81c42679072" alt="CompTIA Security+">
-    </td>
-    <td align="center">
-      <b>TestOut Security Pro</b><br/>
-      <img width="180" src="https://github.com/user-attachments/assets/a048f044-ec93-4e95-874a-e59e70b58f71" alt="TestOut Security Pro">
-    </td>
-    <td align="center">
-      <b>TestOut Linux Pro</b><br/>
-      <img width="180" src="https://github.com/user-attachments/assets/94c28021-04ca-4593-b469-b1c8a5a0f647" alt="TestOut Linux Pro">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>CCNA</b> — in progress<br/>
-      <img width="180" src="https://github.com/user-attachments/assets/e025dc8f-d1e9-4361-bdb0-c35853d611c1" alt="CCNA Badge">
-    </td>
-    <td align="center">
-      <b>AWS Cloud Practitioner</b> — in progress<br/>
-      <img width="180" src="https://github.com/user-attachments/assets/04ecefa7-4d61-4eab-ba4c-b3a349f04044" alt="AWS Cloud Practitioner">
-    </td>
-   <td align="center">
-     <b>AZ-900</b> — in progress<br/>
-      <img width="180" alt="AZ-900" src="https://github.com/user-attachments/assets/51743169-80b4-417b-bde7-357f1e9d9a98" />
-    </td>
-    <td></td>
-
-  </tr>
-</table>
+| Certification | Status | Badge |
+|---|---|---|
+| CompTIA Security+ | Earned | <img width="120" src="https://github.com/user-attachments/assets/4ccdbcda-6dc8-419c-8a6d-f81c42679072" alt="CompTIA Security+"> |
+| TestOut Security Pro | Earned | <img width="120" src="https://github.com/user-attachments/assets/a048f044-ec93-4e95-874a-e59e70b58f71" alt="TestOut Security Pro"> |
+| TestOut Linux Pro | Earned | <img width="120" src="https://github.com/user-attachments/assets/94c28021-04ca-4593-b469-b1c8a5a0f647" alt="TestOut Linux Pro"> |
+| CCNA | In Progress | <img width="120" src="https://github.com/user-attachments/assets/e025dc8f-d1e9-4361-bdb0-c35853d611c1" alt="CCNA Badge"> |
+| AWS Cloud Practitioner | In Progress | <img width="120" src="https://github.com/user-attachments/assets/04ecefa7-4d61-4eab-ba4c-b3a349f04044" alt="AWS Cloud Practitioner"> |
+| AZ-900 | In Progress | <img width="120" alt="AZ-900" src="https://github.com/user-attachments/assets/51743169-80b4-417b-bde7-357f1e9d9a98"> |
 
 ---
-
 ## 📫 Connect With Me
 
 [LinkedIn](https://linkedin.com/in/felix-atika) • [YouTube](https://www.youtube.com/c/Felixtech) • [Twitter](https://twitter.com/ItsFelixtech)
