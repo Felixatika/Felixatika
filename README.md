@@ -1,3 +1,9 @@
+<h1 align="center">Felix Atika</h1> <h3 align="center">IT & Cybersecurity Professional | Networking • Cloud Security • Threat Hunting</h3> <p align="center"> <a href="https://www.linkedin.com/in/felix-atika/"> <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:felixatika@gmail.com"> <img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p> <p align="center"> CCNA (in progress) • CompTIA Security+ • TestOut Linux Pro • M.S. Cybersecurity </p>
+
+
+
+
+
 # Hello, I'm Felix — Obsessed with Cybersecurity & Networking | Welcome to My IT & Cybersecurity Project Portfolio 🔐
 <a href="https://www.linkedin.com/in/felix-atika/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
