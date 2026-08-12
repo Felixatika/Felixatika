@@ -82,6 +82,12 @@ This portfolio showcases hands-on labs and projects across vulnerability managem
       <b>TestOut Linux Pro</b><br/>
       <img width="180" src="https://github.com/user-attachments/assets/94c28021-04ca-4593-b469-b1c8a5a0f647" alt="TestOut Linux Pro">
     </td>
+    <td align="center">
+      <!-- TODO: add certification -->
+    </td>
+    <td align="center">
+      <!-- TODO: add certification -->
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -95,6 +101,12 @@ This portfolio showcases hands-on labs and projects across vulnerability managem
     <td align="center">
       <b>AZ-900</b> — in progress<br/>
       <img width="180" alt="AZ-900" src="https://github.com/user-attachments/assets/51743169-80b4-417b-bde7-357f1e9d9a98">
+    </td>
+    <td align="center">
+      <!-- TODO: add certification -->
+    </td>
+    <td align="center">
+      <!-- TODO: add certification -->
     </td>
   </tr>
 </table>
