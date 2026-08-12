@@ -1,5 +1,5 @@
 ## <h1 align="center"><em>FELIX ATIKA</em></h1>
-<h3 align="center">IT & Cybersecurity Professional | Networking • Cloud Security • Threat Hunting</h3>
+<h3 align="center">IT & Cybersecurity Professional | Networking • Cloud Security • Vulnerability Management • Threat Hunting</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/felix-atika/">
