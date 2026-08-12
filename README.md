@@ -104,7 +104,7 @@ This portfolio showcases hands-on labs and projects across vulnerability managem
 
 ## 📫 Connect With Me
 
-[LinkedIn](https://linkedin.com/in/felix-atika) [linkedin]: https://linkedin.com/in/felix-atika• [YouTube](https://www.youtube.com/c/Felixtech) • [Twitter](https://twitter.com/ItsFelixtech) • [Instagram](https://www.instagram.com/Felixtech)
+[LinkedIn](https://linkedin.com/in/felix-atika) • [YouTube](https://www.youtube.com/c/Felixtech) • [Twitter](https://twitter.com/ItsFelixtech) • [Instagram](https://www.instagram.com/Felixtech)
 
 
 ## 📫 Connect With Me
