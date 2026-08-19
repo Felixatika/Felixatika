@@ -102,16 +102,7 @@ This portfolio showcases hands-on labs and projects across vulnerability managem
       <b>AZ-900</b> — in progress<br/>
       <img width="180" alt="AZ-900" src="https://github.com/user-attachments/assets/51743169-80b4-417b-bde7-357f1e9d9a98">
     </td>
-    <td align="center">
-    <!---<b>Next-Cert</b> — in progress<br/> -->
-    <img width="180" alt="Next-Cert">
-      <!-- TODO: add certification -->
-    </td>
-    <td align="center">
-   <!---<b>Next-Cert</b> — in progress<br/> -->
-    <img width="180" alt="Next-Cert">
-      <!-- TODO: add certification -->
-    </td>
+
   </tr>
 </table>
 
