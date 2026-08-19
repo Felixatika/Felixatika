@@ -82,7 +82,6 @@ This portfolio showcases hands-on labs and projects across vulnerability managem
       <b>TestOut Linux Pro</b><br/>
       <img width="180" src="https://github.com/user-attachments/assets/94c28021-04ca-4593-b469-b1c8a5a0f647" alt="TestOut Linux Pro">
     </td>
-
   </tr>
   <tr>
     <td align="center">
