@@ -1,4 +1,4 @@
-## <h1 align="center"><em>FELIX ATIKA</em></h1>
+## <h1 align="center"><b>FELIX ATIKA</b></h1>
 <h3 align="center">IT & Cybersecurity Professional | Networking • Cloud Security • Vulnerability Management • Threat Hunting</h3>
 
 <p align="center">
