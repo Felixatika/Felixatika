@@ -54,7 +54,7 @@ This portfolio showcases hands-on labs and projects across vulnerability managem
 
 | Category | Project | Description | Tools |
 |---|---|---|---|
-| Threat Detection & Hunting | [Threat Hunt: Port of Entry](https://github.com/behan101/Threat-Hunt-Port-of-Entry) | Simulated threat-hunting investigation using MITRE ATT&CK framework, behavioral analytics, and digital forensics to trace an intrusion. | Microsoft Defender, KQL, Azure, MITRE ATT&CK |
+| Threat Detection & Hunting | [Threat Hunt: Port of Entry](https://github.com/Felixatika/Threat-Hunt-Port-of-Entry/tree/main) | Simulated threat-hunting investigation using MITRE ATT&CK framework, behavioral analytics, and digital forensics to trace an intrusion. | Microsoft Defender, KQL, Azure, MITRE ATT&CK |
 | Threat Detection & Hunting | [Threat Hunting Scenario — Tor](https://github.com/behan101/Threat-Hunting-Scenario-Tor) | Detected and investigated Tor browser usage on an endpoint using Microsoft Defender for Endpoint and KQL queries. | KQL, Windows 11 VM, Microsoft Defender for Endpoint |
 | Vulnerability & Compliance | [Vulnerability Management Program Implementation](https://github.com/Felixatika/vulnerability-management-program) | Designed and implemented a structured vulnerability management program from scan to remediation. | Tenable, Azure |
 | Vulnerability & Compliance | [Programmatic Vulnerability Remediations](https://github.com/joshcybertest/programmatic-vulnerability-remediations) | Automated common vulnerability remediations using scripting instead of manual fixes. | PowerShell, Bash, Shell |
