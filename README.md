@@ -62,7 +62,7 @@ This portfolio showcases hands-on labs and projects across vulnerability managem
 | SIEM & Detection Engineering | [Elastic SIEM Lab](https://github.com/behan101/Elastic-Lab) | Built a SIEM lab for log ingestion, data visualization, and alerting on Linux systems. | Elastic, Linux, Nmap |
 | Networking & Identity | [Network Lab](https://github.com/behan101/Network-Lab) | Configured and troubleshot network topologies to reinforce routing and switching fundamentals. | Packet Tracer, Networking Fundamentals |
 | Networking & Identity | [Azure AD Lab](https://github.com/Felixatika/Azure-Active-Directory-Lab-Hands-on-) | Deployed an Active Directory domain environment with GPOs and user/device management. | Azure, Windows Server 2022, AD, GPO |
-| Threat Detection & Hunting | [Threat Hunt: Port of Entry](https://github.com/Felixatika/Threat-Hunt-Port-of-Entry/tree/main) | Simulated threat-hunting investigation using MITRE ATT&CK framework, behavioral analytics, and digital forensics to trace an intrusion. | Microsoft Defender, KQL, Azure, MITRE ATT&CK |
+| Coffee-Shop-Network | [☕ Atika's Coffee Shop Network](https://github.com/Felixatika/Threat-Hunt-Port-of-Entry/tree/main) | Simulated threat-hunting investigation using MITRE ATT&CK framework, behavioral analytics, and digital forensics to trace an intrusion. | Microsoft Defender, KQL, Azure, MITRE ATT&CK |
 
 
 ---
