@@ -63,7 +63,6 @@ This portfolio showcases hands-on labs and projects across vulnerability managem
 | ATIKA-NETWORK-ENGINEERING-PORTIFOLIO | [ATIKA-NETWORK-ENGINEERING-PORTIFOLIO](https://github.com/Felixatika/ATIKA-NETWORK-ENGINEERING-PROJECTS/blob/main/README.md) | A collection of hands-on network engineering projects demonstrating practical skills in network design, routing, switching, VLAN configuration, troubleshooting, and infrastructure management using Cisco technologies and Packet Tracer.| Cisco Packet Tracer 8.x, Cisco IOS (CLI), Mermaid (diagrams in the README) |
 | Networking & Identity | [Network Lab](https://github.com/behan101/Network-Lab) | Configured and troubleshot network topologies to reinforce routing and switching fundamentals. | Packet Tracer, Networking Fundamentals |
 | Networking & Identity | [Azure AD Lab](https://github.com/Felixatika/Azure-Active-Directory-Lab-Hands-on-) | Deployed an Active Directory domain environment with GPOs and user/device management. | Azure, Windows Server 2022, AD, GPO |
-| Coffee-Shop-Network | [☕ Atika's Coffee Shop Network](https://github.com/Felixatika/Atikas-coffee-shop-network) | A segmented small-business network for a coffee shop, built and tested in Cisco Packet Tracer. Staff and POS systems are isolated from customer guest Wi-Fi, managed securely over SSH, and verified end to end. | Cisco Packet Tracer 8.x, Cisco IOS (CLI), Mermaid (diagrams in the README) |
 
 
 ---
